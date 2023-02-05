@@ -1,7 +1,6 @@
 <br/>
 <p align="center">
   <h1 align="center">Tram Movement Simulator</h1>
-
 </p>
 
 
