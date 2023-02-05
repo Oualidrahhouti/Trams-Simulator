@@ -19,7 +19,7 @@ The user must provide a JSON object that includes the following information:
 
 ### Requirements
 
-Qt framework
+Qt framework <br>
 A compiler that supports C++11 or higher.
 
 ## Usage
