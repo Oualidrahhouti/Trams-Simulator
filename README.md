@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Tram Movement Simulator</h3>
+  <h1 align="center">Tram Movement Simulator</h1>
 
 </p>
 
@@ -14,8 +14,8 @@ This project is a simulation of tram movements using the Qt framework. The user 
 
 The user must provide a JSON object that includes the following information:
 
-1.Distance between each stop: An array of numbers representing the distance between each stop in the simulation.
-2.Array of stops: An array of objects, each representing a stop. Each stop has a name and a time to spend on it.
+1.Distance between each stop: An array of numbers representing the distance between each stop in the simulation.<br>
+2.Array of stops: An array of objects, each representing a stop. Each stop has a name and a time to spend on it.<br>
 3.Array of trams: An array of objects, each representing a tram. Each tram has a safe distance property.
 
 ### Requirements
